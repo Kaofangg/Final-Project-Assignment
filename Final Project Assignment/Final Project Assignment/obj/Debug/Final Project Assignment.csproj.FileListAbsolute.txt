@@ -1,0 +1,24 @@
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.exe.config
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.exe
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.AssemblyReference.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.SuggestedBindingRedirects.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Form1.resources
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Properties.Resources.resources
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.GenerateResource.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.CoreCompileInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.exe
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Form2.resources
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.exe.config
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.exe
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\bin\Debug\Final Project Assignment.pdb
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.AssemblyReference.cache
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.SuggestedBindingRedirects.cache
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Form1.resources
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Form2.resources
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final_Project_Assignment.Properties.Resources.resources
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.GenerateResource.cache
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.csproj.CoreCompileInputs.cache
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.exe
+D:\Documents\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105_หลัก\Final Project Assignment\Final Project Assignment\obj\Debug\Final Project Assignment.pdb
